@@ -1,0 +1,25 @@
+
+// first do this to get latest updates
+
+git checkout master
+
+git fetch --all
+
+git pull --all
+
+git checkout changeshua
+
+git rebase master
+
+// now do your changes
+
+edit files, add files, etc etc
+
+commit your changes e.g. git commit
+
+
+//send your changes to the github website
+git push
+
+
+// then go to website and make a pull request :)
