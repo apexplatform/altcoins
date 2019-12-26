@@ -15,10 +15,22 @@ git rebase master
 
 edit files, add files, etc etc
 
-commit your changes e.g. git commit
+// add your files e.g. 
+git status 
+git add filename
+// OR 
+git add -A
+// OR
+git add -u
+
+
+// then commit your changes e.g. 
+git status 
+git commit -m "message to my future self"
 
 
 //send your changes to the github website
+git status
 git push
 
 
