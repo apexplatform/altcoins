@@ -1,0 +1,11 @@
+1. GNUplot. URL: http://www.gnuplot.info/ (Scitific Figure Tool)
+2. Pyplot. URL: http://matplotlib.org/users/pyplot_tutorial.html
+3. Ggplot&ggplot2. URL1: http://ggplot.yhathq.com/. URL2: http://ggplot2.org/
+4. Gephi. URL: https://gephi.org/. Demo: https://sites.google.com/site/minggaoshomepage/links/gnuplot-demo
+ 
+
+
+
+
+
+Ref: https://sites.google.com/site/lyangwww/resources/visualization
