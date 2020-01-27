@@ -18,5 +18,5 @@ readableBTC = web.urlopen(urlBTC) # open the url
 readableADA = web.urlopen(urlADA)
 dataBTC = readableBTC.read().decode('utf-8') # request data and decode it as utf-8
 dataADA = readableADA.read().decode('utf-8')
-database = open('altcoinsData.txt','w')
+database = open('/Users/huazhao/altcoins/altcoinsData.txt','a')
 database.write('\n'+str(datetime.now())+','+str(dataBTC)+','+str(dataADA))
