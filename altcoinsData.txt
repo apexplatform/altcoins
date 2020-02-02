@@ -14,3 +14,5 @@
 {date:"Sun Feb  2 20:12:23 GMT 2020",ADA:{"USD":0.05714}}
 {date:"Sun Feb  2 20:12:54 GMT 2020",BTC:{"USD":9446.66}}
 {date:"Sun Feb  2 20:12:54 GMT 2020",ADA:{"USD":0.05714}}
+{date:"Sun Feb  2 20:13:24 GMT 2020",BTC:{"USD":9444.58}}
+{date:"Sun Feb  2 20:13:24 GMT 2020",ADA:{"USD":0.05715}}
