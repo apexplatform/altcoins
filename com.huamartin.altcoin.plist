@@ -7,7 +7,7 @@
 
   <key>ProgramArguments</key>
   <array>
-    <string>/Users/huazhao/bin/altcoinget.sh</string>
+    <string>/Users/huazhao/altcoins/altcoinget.sh</string>
   </array>
 
   <key>Nice</key>
